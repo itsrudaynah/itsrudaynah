@@ -25,7 +25,7 @@ Currently building real-world data analytics projects and expanding my expertise
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://x.com/YOUR_USERNAME" target="_blank">
+<a href="https://x.com/itsrudaynah" target="_blank">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
@@ -39,7 +39,37 @@ Currently building real-world data analytics projects and expanding my expertise
 
 </p>
 
-#  Tech Stack
+##  Featured Project
+
+<table>
+<tr>
+
+<td width="140" align="center">
+
+<a href="https://github.com/itsrudaynah/Modrik">
+<img src="https://raw.githubusercontent.com/itsrudaynah/Modrik/main/screenshots/modrik_logo1.png" width="110">
+</a>
+
+</td>
+
+<td>
+
+###  Modrik
+
+**Bioinformatics Platform for Genetic Variant Interpretation**
+
+A full-stack bioinformatics platform that interprets genetic variants from VCF files by integrating OpenCRAVAT, PanelApp, and trusted genomic resources, with optional AI-assisted explanations and expert consultation.
+
+**Tech Stack:** Flutter • FastAPI • Firebase • MySQL • SQLite • OpenCRAVAT • PanelApp
+
+<a href="https://github.com/itsrudaynah/Modrik">🔗 View Repository</a>
+
+</td>
+
+</tr>
+</table>
+
+## Tech Stack
 
 ### Programming Languages
 
@@ -119,5 +149,3 @@ Currently building real-world data analytics projects and expanding my expertise
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-
-I enjoy building projects that solve real-world problems through data-driven decision making.
